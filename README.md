@@ -5,4 +5,4 @@
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarkes&theme=moltack_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarkes&theme=great-gatsby_icons=true)
