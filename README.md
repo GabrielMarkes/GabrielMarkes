@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarkes&theme=vue&show_icons=true)
 
 
-### Linguagens Mais Usadas 
+-  ### Linguagens Mais Usadas 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarkes&layout=compact&theme=vue-dark)](https://github.com/GabrielMarkes)
 
