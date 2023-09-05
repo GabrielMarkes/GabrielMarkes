@@ -12,11 +12,12 @@
 </div>
 <br/>
   <div> 
- 
   <a href="https://www.instagram.com/gabrielmarks19/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-marques-456826211/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5575983134741&text=olá,%20%20tenha%20contato%20comigo)
-  [![Spotify](https://img.shields.io/badge/Spotify-Rockstarbr-green?style=for-the-badge&logo=spotify)]
-  [![Discord](https://img.shields.io/badge/Discord-gabrielmarques2413-blue?style=for-the-badge&logo=discord)]
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/gabriel-marques-456826211/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord)](https://discord.com/users/gabrielmarques2413)
+ [![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/rockstarbr)
+ 
+
   
 </div>
