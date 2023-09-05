@@ -30,3 +30,6 @@
   <a href="https://open.spotify.com/user/rockstarbr" target="_blank"><img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify" target="_blank"></a>
 
 </div>
+
+[![snake gif](https://gjthub.com/GabrielMarkes/GabrielMarkes/blob/output/github-contribution-grid-snake.svg)
+
