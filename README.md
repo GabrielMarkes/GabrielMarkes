@@ -19,7 +19,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br/>
----
   <div>
      <a href="https://api.whatsapp.com/send?phone=5575983134741&text=ol%C3%A1,%20%20tenha%20contato%20comigo">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
