@@ -31,5 +31,4 @@
 
 </div>
 
-[![snake gif](https://gjthub.com/GabrielMarkes/GabrielMarkes/blob/output/github-contribution-grid-snake.svg)
 
