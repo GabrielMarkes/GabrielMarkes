@@ -4,7 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarkes&theme=dracula&show_icons=true)
 
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarkes&layout=compact&theme=dracula)](https://github.com/GabrielMarkes)
