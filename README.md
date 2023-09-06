@@ -6,7 +6,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielMarkes&layout=compact&theme=dracula)](https://github.com/GabrielMarkes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarkes)
 
 
 
