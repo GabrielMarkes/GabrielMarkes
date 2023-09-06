@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudo tecnologias Front-end
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarkes&theme=dracula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielMarkes&&show_icons=true&theme=dark)
 
 ---
 
