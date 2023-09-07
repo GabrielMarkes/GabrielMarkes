@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarkes)
 
 
-
+<div align="enter">
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,5 +28,5 @@
   <a href="https://open.spotify.com/user/rockstarbr" target="_blank"><img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify" target="_blank"></a>
 
 </div>
-
+</div>
 
