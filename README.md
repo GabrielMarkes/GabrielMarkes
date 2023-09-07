@@ -5,8 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielMarkes&show_icons=true&theme=vue)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarkes&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarkes)
 
 
 <div align="enter">
