@@ -1,7 +1,9 @@
 ### Olá! Sou o Gabriel Marques👋
+
  Atualmente estudo tecnologias Front-end 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielMarkes&show_icons=true&theme=vue)
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarkes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <div align="enter">
 <div style="display: inline_block"><br>
