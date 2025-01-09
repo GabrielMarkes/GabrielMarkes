@@ -25,6 +25,6 @@
  <a href="https://discord.com/users/gabrielmarques2413" target="_blank"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord" target="_blank"></a>
  <a href="https://open.spotify.com/user/rockstarbr" target="_blank"><img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify" target="_blank"></a>
 </div>
- <a href="https://drive.google.com/file/d/1erAXCjXW_I0-lZ7t2kU36jBSqJP44lTC/view?usp=sharing">*Meu Currículo*<a/>
+ <a href="https://drive.google.com/file/d/1mL6jcepV8zF2-nOmKLkLvFJkIi9dQvC-/view?usp=sharing">*Meu Currículo*<a/>
 </div>
 
